@@ -3,7 +3,7 @@
 ##Screenshot
 ![Screenshot](https://github.com/bajian/MaterialCheckBoxx/blob/master/bbb.gif)
 
-###部分算法借鉴于网络
+部分算法借鉴于网络
 
 ##License
 ```
