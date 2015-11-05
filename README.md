@@ -1,7 +1,7 @@
 # MaterialCheckBox
 用于勾选等用途（like a simple checkbox）
 ##Screenshot
-![screenshot](./art/animcheckbox.gif)
+![Screenshot](https://github.com/bajian/MaterialCheckBoxx/blob/master/bbb.gif)
 
 ###部分算法借鉴于网络
 
