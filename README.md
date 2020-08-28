@@ -1,11 +1,11 @@
 # MaterialCheckBox
 用于勾选等用途（like a simple checkbox）
-##Screenshot
+## Screenshot
 ![Screenshot](https://github.com/bajian/MaterialCheckBoxx/blob/master/bbb.gif)
 
 部分算法借鉴于网络
 
-##License
+## License
 ```
 Copyright 2015 bajian
 
